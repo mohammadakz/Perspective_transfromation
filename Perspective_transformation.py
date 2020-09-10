@@ -1,4 +1,5 @@
-# MA
+# Author Mohammad Akbarzadeh
+# https://github.com/mohammadakz
 import math
 import numpy as np
 
